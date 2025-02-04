@@ -9,14 +9,3 @@ A simple **Typing Speed Test** application built using **Python and Tkinter**. I
 ✅ **Multiple Sentences with Multiple Lines** (more realistic typing experience)  
 ✅ **Language Selection** at startup (**English / Polski**)  
 ✅ **Restart Option** (new sentence, same language)  
-
-## 🖼 Screenshots
-
-### 📌 Language Selection
-![Language Selection](https://via.placeholder.com/600x300.png?text=Language+Selection)
-
-### 📌 English Typing Test
-![Typing Test in English](https://via.placeholder.com/600x300.png?text=English+Typing+Test)
-
-### 📌 Polish Typing Test
-![Typing Test in Polish](https://via.placeholder.com/600x300.png?text=Polish+Typing+Test)
